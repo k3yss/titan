@@ -1,2 +1,2 @@
 # Titan
-Repo for hosting the compiler while following CSC501.
+A repository for hosting the compiler being built while following the CSC501 course.
